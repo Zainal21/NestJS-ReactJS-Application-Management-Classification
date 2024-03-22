@@ -58,13 +58,17 @@ $ yarn migration:create
 $ yarn migration:revert
 ```
 
-## Running Seeder the app
+## Running Seeder the app (in Progress)
 
 ```bash
 # development
 $ "db:seed": "ts-node -r tsconfig-paths/register ./src/seeders/seed.helper.ts"
 
 ```
+
+## You Can Import SQL Dump Manually (using DBMS Client or CLI)
+
+-
 
 ## Test
 
