@@ -36,7 +36,7 @@ export default function ClassificationPage() {
     problem: { id: "", problemName: "" },
   };
   const [formData, setFormData] = useState<FormData>(initialFormData);
-  const [problems, setProblems] = useState<Problem[]>([]); // assuming you fetch problems from somewhere
+  const [problems, setProblems] = useState<Problem[]>([]); 
 
   // data fetching
   const fetchAllData = () => {
