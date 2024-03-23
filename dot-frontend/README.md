@@ -24,10 +24,6 @@ Node.js `>= 20.x` is required and setup with [yarn](https://classic.yarnpkg.com/
 
 4. Open your browser
 
-   ```sh
-   pnpm prisma:seed
-   ```
-
 Copyright © 2024 by Muhamad Zainal Arifin
 
 > The Project is Under MIT licensed.
